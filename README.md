@@ -9,7 +9,7 @@ Final Year CSE at KNOWLEDGE INSTITUTE OF TECHNOLOGY
 - 📫 How to reach me :
 
 <br /> [<img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FHariprakasshP"/>](https://x.com/HariprakasshP) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hariprakassh-p-4a8085225/)
-- 😄 Pronouns: Techie
+- 😄 Pronouns: Aspiring Developer 💻
 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
